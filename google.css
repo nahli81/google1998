@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+    padding: 0;  
+   
+}
+.container {
+    width:888px;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+   
+}
+.orta {
+    text-align: center;
+    margin: 0;
+    height: 111;
+   
+   
+}
+.ortacevre {
+    background-color: rgb(238, 238, 238);
+}
+.kutu {
+    width:33%;
+    float:left;
+    margin: 2px;
+    height: 111px;
+    text-align: center;
+    
+   
+    
+}
+
+.alt {
+    
+    
+   
+}
+.altsag {
+    background-color: rgb(98, 179, 170);
+    margin: 0 0 0 2px;
+    
+    
+}
+.altorta {
+    background-color:  rgb(112, 204, 194);
+    margin: 0 2px 0 2px;
+}
+.altsol {
+    background-color: rgb(126, 229, 218);
+    margin: 0 2px 0 0;
+}
+.clear{
+    clear: both;
+}
+.logo {
+    background-color: #fff;
+    text-align: center;
+}
+p {
+    margin: 0;
+    text-align: center;
+}
+ul {
+    list-style-type:none;
+}
+a { text-decoration: none;}
+.altt { 
+    float:left;
+    text-align: center;
+   
+
+}
+.altalt {
+    text-align: center;
+}
